@@ -1,8 +1,8 @@
 # WHO Suicide Statistics and World Happiness Report
 
 is my first ever data science project. In this project, I explore the datasets:
-https://www.kaggle.com/szamil/who-suicide-statistics
-https://www.kaggle.com/unsdsn/world-happiness
+>https://www.kaggle.com/szamil/who-suicide-statistics
+>https://www.kaggle.com/unsdsn/world-happiness
 
 to find insights to the suicides around the world, as well as whether factors affecting happiness also affects suicides.
 
