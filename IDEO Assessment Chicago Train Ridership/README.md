@@ -15,6 +15,8 @@ With this information, I created a google map and choropleth using Folium to sho
 
 ## Reflection
 
-It was a really fun project which was ultimately rejected because my coding was deemed too rudimentary. I did not know the existance of lmplots before this and was using a very long winded SKlearn + matplotlib method of creating regression plots. It also took me quite a while to understand how Folium worked and the one I handed in did not have it. (The dtype of the column which will be used with KEYON has to be a string instead of an int or float)
+It was a really fun project which was ultimately rejected because my coding was deemed too rudimentary. I did not know the existance of seaborn's lmplots before this and was using a very long winded SKlearn + matplotlib method of creating regression plots. With sns.lmplot, I could create a facetgrid + regression graph.
 
-The bright side was IDEO mentioned I had good instincts on how to proceed with a vague project, and to apply again when I have better understanding with code.
+It also took me quite a while to understand how Folium worked and the one I handed in did not have it. (I later found out that the dtype of the column which will be used with KEYON of the choropleth has to be a string instead of an int or float)
+
+The bright side was IDEO mentioned I had good instincts on how to proceed with a vague project, and to apply again when I have better understanding/experience with code and data science.
