@@ -69,4 +69,4 @@ The predicted traffic volume on the 6/23 is: [number]
 
 ## Reflection
 
-This was tough because the assessment needed things and used jargons that were not within codeacademy's datascience programme (which is where I learnt data science). But with much googling and reading on stackoverflow, I learned things like creating my own functions and exporting them as my own .py file.
+This was tough because the assessment needed things and used jargons that were not within codeacademy's datascience programme (which is where I learnt data science). But with much googling and reading on stackoverflow, I learned things like creating my own functions and exporting them as my own .py file, and using azure's blob storage system and using azcopy to send files using the terminal.
