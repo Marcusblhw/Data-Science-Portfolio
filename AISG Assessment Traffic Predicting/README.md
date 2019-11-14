@@ -67,10 +67,6 @@ And the algorithm will print out
 The predicted traffic volume on the 6/23 is: [number]
 ```
 
-
-```python
-
-```
 ## Reflection
 
 This was tough because the assessment needed things and used jargons that were not within codeacademy's datascience programme (which is where I learnt data science). But with much googling and reading on stackoverflow, I learned things like creating my own functions and exporting them as my own .py file.
