@@ -1,5 +1,7 @@
 # IDEO Assessment Chicago Train Ridership
 
+Project can be viewed without a notebook by opening the html file with any internet browser
+
 A post interview submission for IDEO's data science team.
 
 In this project, I was tasked to help a company open a new store in Chicago, using the dataset providede:
