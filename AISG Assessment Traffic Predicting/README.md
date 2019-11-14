@@ -1,5 +1,7 @@
 # Traffic Volume Prediction MLP
 
+This is an assessment for an AI accelerator programme where I had to explore a traffic dataset of an unidentified city in America. Afterwhich, I was tasked to create a machine learning pipeline (Took me some googling for this term, but it basically means a machine learning flow from start to end(what data to use, how are you going to split it, what machine learning method will you be using to train with the dataset)
+
 This MLP uses a multivariate linear regression to predict the westbound traffic volume in a city. 
 
 This module uses pandas, sklearn's linear regression & train test split, so make sure these modules are installed prior
@@ -69,3 +71,6 @@ The predicted traffic volume on the 6/23 is: [number]
 ```python
 
 ```
+## Reflection
+
+This was tough because the assessment needed things and used jargons that were not within codeacademy's datascience programme (which is where I learnt data science). But with much googling and reading on stackoverflow, I learned things like creating my own functions and exporting them as my own .py file.
