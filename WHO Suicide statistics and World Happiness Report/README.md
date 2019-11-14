@@ -1,6 +1,8 @@
 # WHO Suicide Statistics and World Happiness Report
 
-is my first ever data science project. In this project, I explore the datasets:
+Project can be viewed without a notebook by opening the html file with any internet browser
+
+This is my first ever data science project. In this project, I explore the datasets:
 1. https://www.kaggle.com/szamil/who-suicide-statistics
 2. https://www.kaggle.com/unsdsn/world-happiness
 
