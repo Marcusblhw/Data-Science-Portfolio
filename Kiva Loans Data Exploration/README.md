@@ -15,4 +15,4 @@ It is not yet finished as I plan to perhaps do a classification or Naive Bayes o
 Will update machine learning soon.
 
 ### Edit
-Updated with text countvectorizer and used both Naive Bayes and SVG classifier on prediction number of lenders as well based on tags as well as the gender of the borrowers. Overall a fun experience but not a very conclusive score to warrent the usefulness of such a feature.
+Updated with text countvectorizer and used both Naive Bayes and SVM classifier on prediction number of lenders as well based on tags as well as the gender of the borrowers. Overall a fun experience but not a very conclusive score to warrent the usefulness of such a feature.
